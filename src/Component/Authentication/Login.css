@@ -1,0 +1,35 @@
+h4 {
+  color: rgb(2, 2, 2);
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+a {
+  color: rgb(31, 30, 30);
+}
+a:hover {
+  color: rgb(255, 39, 39);
+}
+.form-control:focus {
+  color: #000;
+  background-color: #fff;
+  border: 2px solid #1c2b35;
+  outline: 0;
+  box-shadow: none;
+}
+
+.Form_box {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.btn {
+  background: #1c2b35;
+  border: #1c2b35;
+}
+.btn:hover {
+  background: #355063;
+  border: #355063;
+}
+
+.btn-logo {
+  width: 20px;
+}
